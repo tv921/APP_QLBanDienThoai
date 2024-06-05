@@ -1,0 +1,1130 @@
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\QLCHXM.exe.config
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\QLCHXM.exe
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\QLCHXM.pdb
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.Home.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.exe
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.pdb
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\DangNhap\Database1.mdf
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\DangNhap\Database1_log.ldf
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.KhachHang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.Form_chitietdonhang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.ThongKe.ThongKe.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+C:\Users\Administrator\Desktop\DoAnCSN-2023\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\DangNhap\Database1.mdf
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\DangNhap\Database1_log.ldf
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.exe.config
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.exe
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.pdb
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.Home.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.exe
+C:\Users\Administrator\Desktop\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\DangNhap\Database1.mdf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\DangNhap\Database1_log.ldf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Database1.mdf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Database1_log.ldf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.exe
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\EnvDTE.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\stdole.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\EnvDTE.xml
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.exe
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\DangNhap\Database1.mdf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\DangNhap\Database1_log.ldf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database1.mdf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database1_log.ldf
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\EnvDTE.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\stdole.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\EnvDTE.xml
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.exe
+D:\Lập trình trên Windows\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.pdb
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe.config
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.pdb
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\stdole.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Home.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.exe
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.pdb
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database2.mdf
+C:\Users\Lenovo\OneDrive - Tra Vinh University\Máy tính\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database2_log.ldf
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database2.mdf
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database2_log.ldf
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.exe
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\EnvDTE.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\stdole.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\EnvDTE.xml
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.exe
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database3.mdf
+D:\DoAnCSN-8.1.2023-HT da sua\QLCHXM\bin\Debug\Database3_log.ldf
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Database2.mdf
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Database2_log.ldf
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Database3.mdf
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Database3_log.ldf
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\QLCHXM.exe
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\EnvDTE.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\stdole.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\EnvDTE.xml
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.exe
+D:\Bai_cua_Duong\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Database2.mdf
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Database2_log.ldf
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Database3.mdf
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Database3_log.ldf
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\QLCHXM.exe
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.exe
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\EnvDTE.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\stdole.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\APP_WIN_PTTKHT\QLCHXM\bin\Debug\EnvDTE.xml
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\APP_WIN_PTTKHT\QLCHXM\obj\Debug\QLCHXM.Them.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database2.mdf
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database2_log.ldf
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database3.mdf
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database3_log.ldf
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\stdole.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.xml
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Them.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.exe
+D:\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database2.mdf
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database2_log.ldf
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database3.mdf
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database3_log.ldf
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\stdole.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.xml
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Them.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.CopyComplete
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.exe
+D:\MÔN HỌC CŨ\Nhóm 8_ Khánh_Dương_Khoa\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe.config
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.exe
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\QLCHXM.pdb
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\FontAwesome.Sharp.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\stdole.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Microsoft.MSXML.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\EnvDTE.xml
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.AssemblyReference.cache
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.DANGKY.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.Form_Dang_Nhap.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DangNhap.QuenMatKhau.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.DonHang.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhaCungCap.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Them.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fThongKe.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.HangHoa.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.fKhachHang.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Home.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.NhanVien.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.Properties.Resources.resources
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.GenerateResource.cache
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.CoreCompileInputs.cache
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.exe
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.pdb
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database  DangNhap\Database2.mdf
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\bin\Debug\Database  DangNhap\Database2_log.ldf
+D:\HK2 2023-2024 năm 3\CÔNG NGHỆ PHẦN MỀM\DU AN JIRA\APP_QLBDT_WINDOW FORM\QLCHXM\obj\Debug\QLCHXM.csproj.Up2Date
